@@ -4,6 +4,8 @@
   }
 
   
+
+  
   .navbar {
     width: 80%;
     margin: auto;
@@ -36,4 +38,9 @@
   }
   nav ul li:hover {
     background: rgb(133, 29, 29);
+  }
+
+
+  .rick_roll{
+    padding-top: 50px;
   }
