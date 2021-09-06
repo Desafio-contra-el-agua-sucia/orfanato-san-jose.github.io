@@ -5,9 +5,10 @@
 
 /* Rick Roll con valo */
 
-.rick_roll{
-  padding-top: 50px;
-  padding-bottom: 1px
+.texto_rick{
+  padding-top: 62px;
+  padding-bottom:2px ;
+  font-size:32px;
 }
 
 .vid_rick {
