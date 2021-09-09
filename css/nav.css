@@ -36,3 +36,7 @@ nav ul li a {
 nav ul li:hover {
   background: rgb(133, 29, 29);
 }
+
+nav ul li a:hover {
+  font-size: 25px;
+}
